@@ -1,2 +1,2 @@
 # MyLearning
-Repository Created For Learning purpose only
+This file contains instructions on how to use the branches.
