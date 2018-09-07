@@ -1,2 +1,2 @@
 # MyLearning
-Repository Created For Learning purpose
+Repository Created For Learning purpose only
